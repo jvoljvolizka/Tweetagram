@@ -3,7 +3,7 @@ Listens a Twitter user for new tweets, and pushes them into telegram chat.
 
 # Usage
 
-Install requirements by:
+Install requirements by running:
 
 ```sudo pip install python-telegram-bot tweepy```
 
